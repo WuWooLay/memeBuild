@@ -1,0 +1,14 @@
+{
+  "name": "memebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.2a925c234039c6ab43a6e472b6c19690.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.0.0"
+  }
+}
